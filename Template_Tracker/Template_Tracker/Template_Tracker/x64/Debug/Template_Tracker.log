@@ -1,0 +1,3 @@
+﻿  Template_Tracker.cpp
+C:\Users\Ford\Desktop\Signal\Template_Tracker\Template_Tracker\Template_Tracker\Template_Tracker.cpp(34,140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Template_Tracker.vcxproj -> C:\Users\Ford\Desktop\Signal\Template_Tracker\Template_Tracker\x64\Debug\Template_Tracker.exe
